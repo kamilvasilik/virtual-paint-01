@@ -7,3 +7,5 @@ simple virtual paint using webcam
   - press Q to save color and quit picking
 - enjoy virtual painting ;-)
   - press Q to quit
+
+run virtual_paint.py
